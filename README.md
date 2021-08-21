@@ -2,7 +2,8 @@
 
 ### Home Page
 ![main](main.png)
-
+### Home Page
+![Registration Page](main.png)
 
 ### Registration Page
 ![Registration Page](Registration.png)
