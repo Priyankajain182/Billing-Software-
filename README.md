@@ -1,7 +1,7 @@
 # Billing Software 
 
 ### Home Page
-![main Page](Picture1.png)
+![main Page](Picture1.jpeg)
 
 
 ### Registration Page
