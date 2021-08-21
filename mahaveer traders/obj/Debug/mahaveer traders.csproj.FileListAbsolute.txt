@@ -1,0 +1,37 @@
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\mahaveer traders.exe.config
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\mahaveer traders.exe
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\mahaveer traders.pdb
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form1.resources
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Properties.Resources.resources
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.exe
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.pdb
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\MySql.Data.DLL
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\Google.Protobuf.dll
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\Renci.SshNet.dll
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\source\repos\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.csproj.CopyComplete
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\mahaveer traders.exe.config
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\mahaveer traders.exe
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\mahaveer traders.pdb
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\Google.Protobuf.dll
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\Renci.SshNet.dll
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form1.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Properties.Resources.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.csproj.CopyComplete
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.exe
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer traders.pdb
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form2.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form3.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form4.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form5.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form6.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form7.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form8.resources
+C:\Users\Asus\Desktop\c#project\project\mahaveer traders\mahaveer traders\obj\Debug\mahaveer_traders.Form9.resources
